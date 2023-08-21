@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+
+@import "fonts.css";
+
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "SohneLight";
+}
+
+/* .main-container:after {
+  content: "";
+  display: table;
+  clear: both;
+} */
+
+.heading-semibold {
+  font-family: "SohneHeading", sans-serif;
+}
+
+p {
+  font-family: "SohneLight" !important;
+  color: #4d5760;
+}
+
+.textLightFont {
+  font-family: "SohneLight" !important;
+}
+
+.textRegularFont {
+  font-family: "SohneRegular" !important;
+}
+
+.chartText {
+  font-family: "SohneLight" !important;
+  line-height: 22px !important;
+  color: #4d5760 !important;
+}
+
+.sidebar {
+  float: left;
+  width: 304px;
+  min-height: 100vh;
+  /* grid-area: sidebar; */
+}
+
+.sidenav-text {
+  font-family: "SohneRegular" !important;
+}
+
+.mainArea {
+  float: left;
+  width: calc(100vw - 304px);
+  min-height: 100vh;
+  grid-area: body;
+}
+
+/* :root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+} */

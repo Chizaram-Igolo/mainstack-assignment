@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "SohneHeading";
+  src: url("/fonts/TestSöhne/TestSöhne-Kräftig.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SohneRegular";
+  src: url("/fonts/TestSöhne/TestSöhne-Buch.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SohneLight";
+  src: url("/fonts/TestSöhne/TestSöhne-Leicht.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "WorkSans_Bold";
+  src: url("/fonts/WorkSans/WorkSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "WorkSans_ExtraBold";
+  src: url("/fonts/WorkSans/WorkSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Indigo;
+  src: url("/fonts/Indigo/Indigo.otf") format("opentype");
+}
+
+@font-face {
+  font-family: ScriptType;
+  src: url("/fonts/ScriptType/ScriptType.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Hammersmith;
+  src: url("/fonts/Roboto-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraSans";
+  src: url("/fonts/FiraSans/FiraSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraSans_Medium";
+  src: url("/fonts/FiraSans/FiraSans-Medium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraSans_SemiBold";
+  src: url("/fonts/FiraSans/FiraSans-SemiBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraSans_Bold";
+  src: url("/fonts/FiraSans/FiraSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "FiraSans_ExtraBold";
+  src: url("/fonts/FiraSans/FiraSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: ScriptType;
+  src: url("/fonts/ScriptType/ScriptType.ttf") format("truetype");
+}
